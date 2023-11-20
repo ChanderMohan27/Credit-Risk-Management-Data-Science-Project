@@ -8,7 +8,7 @@ Welcome to the Home Equity Line of Credit (HELOC) Risk Prediction project! In th
 
 The primary goal is to determine whether an applicant will be able to repay their HELOC account within two years based on their credit report information. The project also emphasizes the importance of model explainability in understanding complex machine learning models, promoting transparency, and mitigating biases.
 
-## For more details on the Project, its preprocessing, and model deployment please refer to the [project documentation (PDF)](https://drive.google.com/file/d/18o9ALYSbg7pVA3RJZlFG-l99WxulQJdR/view?usp=sharing).
+# For more details on the Project, its preprocessing, and model deployment please refer to the [project documentation (PDF)](https://drive.google.com/file/d/18o9ALYSbg7pVA3RJZlFG-l99WxulQJdR/view?usp=sharing).
 
 ## 2. Problem Definition
 
@@ -33,6 +33,9 @@ The project follows a comprehensive machine learning workflow to achieve its goa
 4. **Explainability:** Ensuring the models are interpretable and providing insights into the factors influencing creditworthiness decisions.
 
 5. **Creation of a User Interface:** Developing a user interface to interact with the model and visualize results.
+
+   <img width="1440" alt="Screenshot 2023-11-20 at 3 29 53 pm" src="https://github.com/ChanderMohan27/Credit-Risk-Management-Data-Science-Project/assets/128381758/346ea21f-2ce4-4eee-a4c0-fecebf87193f">
+
 
 For detailed information on each step, please refer to the project documentation.
 
