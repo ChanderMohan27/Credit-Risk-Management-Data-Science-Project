@@ -1,4 +1,4 @@
-# flask-salary-predictor
+Credit Risk Mana
 This is project predicts the salary of the employee based on the experience.
 
 # Model
