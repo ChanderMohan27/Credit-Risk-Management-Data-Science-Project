@@ -1,5 +1,4 @@
 # Home Equity Line of Credit (HELOC) Risk Prediction
-## This is a group project of me and my 4 firends 
 
 
 ## 1. Introduction
@@ -43,3 +42,8 @@ For detailed information on each step, please refer to the project documentation
 
 The HELOC dataset contains financial records of anonymized consumers, allowing the evaluation of creditworthiness. This dataset, provided by the FICO community, focuses on homeowners and their home equity. It includes 23 numeric variables, describing factors such as trade duration, satisfactory trades, and consumer delinquency.
 
+## Acknowledgments
+
+This project was a collaborative effort with friends, and I would like to express my gratitude to all those who contributed to its success.
+
+University Group Project with Firends 
