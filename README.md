@@ -32,8 +32,9 @@ The project follows a comprehensive machine learning workflow to achieve its goa
 4. **Explainability:** Ensuring the models are interpretable and providing insights into the factors influencing creditworthiness decisions.
 
 5. **Creation of a User Interface:** Developing a user interface to interact with the model and visualize results.
+<img width="1113" alt="Screenshot 2023-12-15 at 9 03 24 am" src="https://github.com/ChanderMohan27/Credit-Risk-Management-Data-Science-Project/assets/128381758/9de72825-a840-4a28-a82d-397d1c339b0b">
 
-   <img width="1440" alt="Screenshot 2023-11-20 at 3 29 53 pm" src="https://github.com/ChanderMohan27/Credit-Risk-Management-Data-Science-Project/assets/128381758/346ea21f-2ce4-4eee-a4c0-fecebf87193f">
+   
 
 
 For detailed information on each step, please refer to the project documentation.
